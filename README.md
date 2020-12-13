@@ -1,4 +1,4 @@
-# PlutusSwap 💰
+# PlutusSwap 💰🏦 V2.0 Coming
 
 https://yplutus.finance. Feel free to read the code. More details coming soon.
 
